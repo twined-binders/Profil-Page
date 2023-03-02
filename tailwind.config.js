@@ -9,6 +9,7 @@ module.exports = {
         facebook: '#1877F2',
         youtube: '#FF0000',
         discord: '#5865F2',
+        tailwind: '#06B6D4',
         
       },
     },
